@@ -9,13 +9,6 @@ function App() {
 
   return (
       <>
-
-        <div className="flex min-h-screen items-center justify-center bg-emerald-500">
-          <h1 className="text-5xl font-bold text-emerald-500">
-            Hello
-          </h1>
-        </div>
-
         <section id="center">
           <div className="hero">
             <img src={heroImg} className="base" width="170" height="179" alt=""/>
